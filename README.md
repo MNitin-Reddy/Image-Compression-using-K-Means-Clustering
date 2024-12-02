@@ -1,6 +1,3 @@
-# Recommenders-Reinforcement-Learning-Projects
-
-
 # K-means Clustering and Image Compression
 
 ## 1 - Implementing K-means
